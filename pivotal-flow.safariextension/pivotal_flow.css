@@ -1,0 +1,10 @@
+.pivotal_flow_link {
+  display:inline-block;
+  width:16px;
+  height:16px;
+  position:relative;
+  top:3px;
+  background:url('https://www.pivotaltracker.com/favicon.ico');
+  text-indent:-9999em;
+  margin-right:10px;
+}
